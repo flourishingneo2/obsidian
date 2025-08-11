@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b6cbf802c563d186","type":"text","text":"[[Gott des Lebens]] als einziger Zweig zwischen Menschen und Göttern und als erster Gott","x":-240,"y":60,"width":400,"height":80},
+		{"id":"a1bc67c453627538","type":"text","text":"Elysia bis [[Götter der  Zerstörung]]","x":-460,"y":320,"width":250,"height":60},
+		{"id":"94070d64a5372442","type":"text","text":"\"Chrysos Nachfolger\" sind wir","x":-20,"y":325,"width":360,"height":50},
+		{"id":"3384ec65c3e4c85b","type":"text","text":"Götter zerstören und ihre Herzen nehmen","x":215,"y":460,"width":250,"height":60},
+		{"id":"347b56249133cb58","type":"text","text":"Player\nGladius - Oleksii\nKairo - Payam\nAzriel - Julius\nNeos - Conschti\nRadamantos - Henry\nLyros - Florian\n\nNPCs\nKyros - ursprünglich höchster Priester der Janos (hat die Prophezeihung bekommen)\n\n\n","x":600,"y":140,"width":300,"height":420},
+		{"id":"1677519b00e6996d","type":"text","text":"Prophezeihung\nNeos - Goldenes Blut bluten damit der Endboss kommt\nGladis - Brennen um heiliges Wasser zu finden und krasse Waffe zu sein\nAzriel - Göttliche Ablehnung\nNatan Levitos - Tanzen in der Euphorie, Ignoranz, \nRadamantos - Rebelle, Soll Götter hinrichten, Gefängnis rauben. verroten im süßen Lebem\nAetherion - Schwimme, im Fluss der Zeit und Erinnerung, erfahre die Natur der Reise\nKairo - Wissen im ewigen Fluss finden\n\nleises Geschrei der Welt\n\n(namensos; Ausnahme: Kyros)","x":-180,"y":580,"width":780,"height":340},
+		{"id":"31606cbb165d9164","type":"text","text":"DREAM OF THE BLUE VEIL","x":680,"y":820,"width":280,"height":50},
+		{"id":"a53efddfcb5c2d44","type":"text","text":"Stimmen: \"Korruption; Schnell. Himmel Feuer Stern. Aufgeben. Schmerz\" - nicht Janus","x":-170,"y":440,"width":330,"height":100},
+		{"id":"403d0752fb11fdc8","type":"text","text":"Versteckter Teil:\nWir werden alle sterben und leiden um der Welt Trost zu bieten, aber wir werden nichts davon bekommen\nNur einer wird überleben","x":-170,"y":1000,"width":690,"height":200},
+		{"id":"8242d7288f664f87","type":"text","text":"AKTUELLES ZIEL:\nKRASIPOLIS - City of Romance\n","x":1340,"y":140,"width":560,"height":350},
+		{"id":"f57349b1dfb222c2","type":"text","text":"Zurück in der Zeit \n11. Monat 1305 nach \n1.Monat 1303\n","x":-980,"y":295,"width":380,"height":145},
+		{"id":"5ac092232c396f84","type":"text","text":"APOCALYPSE","x":-980,"y":110,"width":250,"height":60},
+		{"id":"23d7f73eecb314d9","type":"text","text":"798 gold\n-5 max hp\n-1 use misty step\n-2 rerolls\n-1 1st lvl","x":-915,"y":970,"width":395,"height":510},
+		{"id":"8893f3a6ca5a385f","x":210,"y":-240,"width":250,"height":60,"type":"text","text":"#review "}
+	],
+	"edges":[
+		{"id":"5da823d7d717ae74","fromNode":"94070d64a5372442","fromSide":"bottom","toNode":"3384ec65c3e4c85b","toSide":"top"},
+		{"id":"85a14efe0fa772b0","fromNode":"5ac092232c396f84","fromSide":"bottom","toNode":"f57349b1dfb222c2","toSide":"top"}
+	]
+}

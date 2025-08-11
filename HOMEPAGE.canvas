@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8897ed3d4ec629f5","type":"file","file":"DnD/Campaigns/One-Shots Multicampaign/Rough Idea Sketch.md","x":-600,"y":260,"width":400,"height":400},
+		{"id":"c5d58f7bb0f86232","type":"text","text":"One-Shot Multicampaign","x":-525,"y":130,"width":250,"height":60},
+		{"id":"7fd11e51668959c6","type":"text","text":"","x":80,"y":1300,"width":250,"height":60},
+		{"id":"9c400077d3f7e077","type":"text","text":"Theater Campaign","x":-209,"y":-240,"width":250,"height":60},
+		{"id":"03d58e9d7e6c8df4","type":"text","text":"Parsa's Campaign","x":50,"y":130,"width":250,"height":60},
+		{"id":"24be616d612c2492","type":"text","text":"DND","x":-209,"y":0,"width":250,"height":60},
+		{"id":"6cce410b0fb04abc","type":"file","file":"DnD/Campaigns/Parsa Campaign/Parsa Overview.canvas","x":-25,"y":260,"width":400,"height":400},
+		{"id":"b2f48ce80bfccbce","x":-1240,"y":30,"width":440,"height":640,"type":"text","text":"# Recent Files\n\n```dataview  \nLIST  \nWHERE  \nfile.path != \"Dashboard.md\"  \nSORT file.mtime DESC LIMIT 5  \n```"}
+	],
+	"edges":[
+		{"id":"0f84471a66dd6931","fromNode":"24be616d612c2492","fromSide":"bottom","toNode":"c5d58f7bb0f86232","toSide":"top"},
+		{"id":"5dff6e49f3a249b8","fromNode":"c5d58f7bb0f86232","fromSide":"bottom","toNode":"8897ed3d4ec629f5","toSide":"top"},
+		{"id":"701e39faa86ecdce","fromNode":"24be616d612c2492","fromSide":"bottom","toNode":"03d58e9d7e6c8df4","toSide":"top"},
+		{"id":"e1a82029527fb4c6","fromNode":"03d58e9d7e6c8df4","fromSide":"bottom","toNode":"6cce410b0fb04abc","toSide":"top"},
+		{"id":"d7c17b7a6b2061f5","fromNode":"24be616d612c2492","fromSide":"top","toNode":"9c400077d3f7e077","toSide":"bottom"}
+	]
+}

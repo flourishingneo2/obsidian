@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"16ddaf992108bd3a","type":"text","text":"# Guild\n","x":-380,"y":-80,"width":340,"height":320},
+		{"id":"e296501b618f0a80","type":"text","text":"# World\n- Demons and shit everywhere\n- We are in roughly Romania\n- King has been killed recently\n- No heir\n- High Vampire dude\n\t- has his main camp in Kosovo","x":200,"y":-140,"width":420,"height":320},
+		{"id":"7052ef8978b05203","x":20,"y":240,"width":340,"height":120,"type":"text","text":"Bull - labor\nBird - freedom\nChicken - life\nhuman - evil"},
+		{"id":"4a92cd61d3a59e12","x":410,"y":300,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}

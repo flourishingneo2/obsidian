@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"da3515013250813b","type":"text","text":"Einer der 9 magischen Steine wurde von Shiverthorn gestohlen und die Charaktere sollen diese zurückholen.","x":-265,"y":360,"width":345,"height":140,"color":"1"},
+		{"id":"1f6ce8492a3648ee","type":"text","text":"Visionen/Träume, jeder von einem Stein","x":-700,"y":600,"width":326,"height":90,"color":"1"},
+		{"id":"fdfa9259a60cb68f","type":"text","text":"Aktuell [[Arcadia-Shiverthorn Krieg|Krieg]] zwischen [[Arcadia]] und [[Shiverthorn]]","x":-774,"y":80,"width":400,"height":120,"color":"1"}
+	],
+	"edges":[
+		{"id":"86bc01adda12cac0","fromNode":"fdfa9259a60cb68f","fromSide":"bottom","toNode":"da3515013250813b","toSide":"top"},
+		{"id":"993ae83ebed08c51","fromNode":"da3515013250813b","fromSide":"bottom","toNode":"1f6ce8492a3648ee","toSide":"top"}
+	]
+}

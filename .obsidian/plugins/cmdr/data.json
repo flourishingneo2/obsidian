@@ -1,0 +1,81 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "periodic-notes:open-daily-note",
+      "icon": "lucide-notebook",
+      "name": "Periodic Notes: Open daily note",
+      "mode": "any",
+      "color": "#ff0000"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "fantasy-content-generator:open-fantasy-generator",
+      "icon": "lucide-university",
+      "name": "Fantasy Content Generator: Open Fantasy Generator",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-5e-statblocks:open-new-creature-view",
+      "icon": "initiative-tracker-creature-view",
+      "name": "Fantasy Statblocks: Open new Creature pane",
+      "mode": "any"
+    },
+    {
+      "id": "initiative-tracker:open-builder",
+      "icon": "lucide-hammer",
+      "name": "Initiative Tracker: Open Encounter Builder",
+      "mode": "any"
+    },
+    {
+      "id": "initiative-tracker:open-tracker",
+      "icon": "lucide-dices",
+      "name": "Initiative Tracker: Open Initiative Tracker",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "backlink"
+    ],
+    "leftRibbon": [
+      "Templater",
+      "Open Creature pane",
+      "Open homepage",
+      "Open: Smart Chat Conversation",
+      "Open quick switcher",
+      "Open graph view",
+      "Insert template",
+      "Open command palette",
+      "Review flashcards",
+      "Open Leaflet Map",
+      "Omnisearch",
+      "3D Graph",
+      "Open today",
+      "Fantasy Generators",
+      "Initiative Tracker Encounter Builder",
+      "Open: View Smart Connections"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "focusNewTab": false,
+  "showLineNumber": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "Setup/"
+  ],
+  "promptDelete": false
+}
